@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "text": "Victory check this out",
+      "date": "20 Dec 2023",
+      "reminder": true,
+      "ticket": "",
+      "id": 2
+    },
+    {
+      "text": "I replaced the BrowserRouter with a HashRouter",
+      "date": "19th December 2023",
+      "reminder": true,
+      "ticket": "",
+      "id": 4
+    },
+    {
+      "text": "On thurseday is my birthday",
+      "date": "13th December 2022 by 8pm.",
+      "reminder": false,
+      "ticket": "",
+      "id": 5
+    },
+    {
+      "text": "We will all go to church on Sunday",
+      "date": "13th December 2022 by 8pm.",
+      "reminder": true,
+      "ticket": "",
+      "id": 6
+    }
+  ]
+}
