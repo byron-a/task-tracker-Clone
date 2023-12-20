@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/byron-a/task-tracker-Clone/static/css/main.4c567228.css",
+    "main.js": "/byron-a/task-tracker-Clone/static/js/main.71ee38e3.js",
+    "static/js/787.34d4a9f3.chunk.js": "/byron-a/task-tracker-Clone/static/js/787.34d4a9f3.chunk.js",
+    "index.html": "/byron-a/task-tracker-Clone/index.html",
+    "main.4c567228.css.map": "/byron-a/task-tracker-Clone/static/css/main.4c567228.css.map",
+    "main.71ee38e3.js.map": "/byron-a/task-tracker-Clone/static/js/main.71ee38e3.js.map",
+    "787.34d4a9f3.chunk.js.map": "/byron-a/task-tracker-Clone/static/js/787.34d4a9f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c567228.css",
+    "static/js/main.71ee38e3.js"
+  ]
+}
